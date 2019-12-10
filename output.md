@@ -380,37 +380,37 @@ the detail of the file.**
 
 14. **Export**
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image1.png){width="2.588542213473316in"
+![](/media/image1.png){width="2.588542213473316in"
 height="1.3911548556430446in"}
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image2.png){width="1.8697922134733158in"
+![](/media/image2.png){width="1.8697922134733158in"
 height="2.0334765966754156in"}
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image3.png){width="2.0364588801399823in"
+![](/media/image3.png){width="2.0364588801399823in"
 height="2.2355347769028873in"}
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image4.png){width="2.276042213473316in"
+![](/media/image4.png){width="2.276042213473316in"
 height="1.7961537620297463in"}
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image5.png){width="1.800929571303587in"
+![](/media/image5.png){width="1.800929571303587in"
 height="2.0364588801399823in"}
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image6.png){width="3.1145833333333335in"
+![](/media/image6.png){width="3.1145833333333335in"
 height="1.6458333333333333in"}
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image7.png){width="3.151042213473316in"
+![](/media/image7.png){width="3.151042213473316in"
 height="1.9340529308836396in"}
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image8.png){width="3.1927088801399823in"
+![](/media/image8.png){width="3.1927088801399823in"
 height="1.985209973753281in"}
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image9.png){width="2.5468755468066493in"
+![](/media/image9.png){width="2.5468755468066493in"
 height="1.1852602799650043in"}
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image10.png){width="6.5in"
+![](/media/image10.png){width="6.5in"
 height="1.3611111111111112in"}
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image11.png){width="2.586894138232721in"
+![](/media/image11.png){width="2.586894138232721in"
 height="2.7656255468066493in"}
 
 ### 2.3.2 Making basic edits: inspecting, aligning, scaling
@@ -724,12 +724,12 @@ Enlace Wikipedia:
 Enlace Media-Page:
 [[https://es.wikipedia.org/wiki/Esfinge\_de\_Hatshepsut\#/media/Archivo:Sphinx\_Metropolitan.jpg]{.underline}](https://es.wikipedia.org/wiki/Esfinge_de_Hatshepsut#/media/Archivo:Sphinx_Metropolitan.jpg)
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image12.png){width="5.28125in"
+![](/media/image12.png){width="5.28125in"
 height="2.71875in"}
 
 Imagen:
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image13.png){width="2.9930555555555554in"
+![](/media/image13.png){width="2.9930555555555554in"
 height="2.244792213473316in"}
 
 Copyright text: De Юкатан - Trabajo propio (own work), Dominio público,
@@ -748,7 +748,7 @@ Copyright text: De Юкатан - Trabajo propio (own work), Dominio público,
 
 5.  Go on with Step 4 of the standard list
 
-![](C:\Users\User\Documents\pandoc-2.0.3-windows\/media/image14.png){width="5.447916666666667in"
+![](/media/image14.png){width="5.447916666666667in"
 height="0.9583333333333334in"}
 
 #### 5.1.2.2 Imagen Imprimido
